@@ -22,6 +22,12 @@
    "default_popup": "popup.html"
   },
 
+  "icons": {
+  	"16": "KappaPride.png",
+    "48": "KappaPride.png",
+    "128": "KappaPride.png"
+  },
+
  "permissions": [
  "tabs", "<all_urls>"
  ]
